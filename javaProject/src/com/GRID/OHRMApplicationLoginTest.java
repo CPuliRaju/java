@@ -1,6 +1,7 @@
 package com.GRID;
 
 
+import java.net.MalformedURLException;
 import java.net.URL;
 
 import org.openqa.selenium.Platform;
@@ -13,7 +14,7 @@ public class OHRMApplicationLoginTest {
 
 	@Parameters("Browser")
 	@Test
-	public void loginTest(String browserName) 
+	public void loginTest(String browserName) throws MalformedURLException 
 	{
 		System.out.println("The Name of the Browser is:-"+browserName);
 		
@@ -39,9 +40,10 @@ public class OHRMApplicationLoginTest {
 			}
 			
 			//Remote Webdriver-is use too set client convention between the HUB antee Windows
-			
+			RemoteWebDriver driver=new RemoteWebDriver(new URL("http://192.168.29.27:4444/wd/hub"),cap);
 			
 			String applicationurladdress=("http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login");
+		driver.get(applicationurladdress);
 			
 		}
 	}
