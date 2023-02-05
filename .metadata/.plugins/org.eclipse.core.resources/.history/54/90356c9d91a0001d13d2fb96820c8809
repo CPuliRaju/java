@@ -1,0 +1,18 @@
+package com.Utility;
+
+import java.io.FileInputStream;
+import java.util.Properties;
+
+public class OHRMProperty {
+
+	public static property loadproperty() {
+		
+		FileInputStream OHRMApplicationpropertyFile=new FileInputStream("./src/main/java/com/Config/OrangeHRMApplicationProperties");
+		Properties property =new Properties();
+		property.load(OHRMApplicationpropertyFile);
+		return property;
+		
+	}
+	
+	
+}

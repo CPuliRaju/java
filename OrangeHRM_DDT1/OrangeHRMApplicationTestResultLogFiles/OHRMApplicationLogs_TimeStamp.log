@@ -1,0 +1,171 @@
+2023-01-27 16:29:28,771 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 16:29:28,800 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 16:29:28,805 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 16:29:31,665 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-27 17:26:01,035 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:26:01,064 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:26:01,068 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 17:27:33,115 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:27:33,139 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:27:33,143 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 17:27:35,204 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-27 17:38:31,464 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:38:31,488 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:38:31,491 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 17:38:33,504 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-27 17:43:10,759 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:43:10,784 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:43:10,788 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 17:43:12,834 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-27 17:53:19,794 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:53:19,821 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 17:53:19,824 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 17:53:21,873 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-27 22:31:43,357 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 22:31:43,395 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 22:31:43,401 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 22:31:49,797 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-27 23:27:43,239 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 23:27:43,275 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-27 23:27:43,279 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-27 23:27:48,209 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 00:25:15,744 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 00:26:51,310 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 00:49:14,938 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 00:53:13,738 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 00:55:03,950 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 00:55:03,974 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 00:55:03,977 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-28 00:55:06,621 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 01:19:50,303 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 01:19:50,331 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 01:19:50,335 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-28 01:19:55,682 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 14:43:54,471 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 14:43:54,505 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 14:43:54,510 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-28 14:44:07,405 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-28 15:05:46,248 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 15:05:46,272 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-28 15:05:46,278 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-28 15:05:50,097 - log -INFO - OrangeHRM
+2023-01-28 15:05:50,110 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee
+2023-01-28 15:05:50,244 - log -INFO - entered employee id :Chakali
+2023-01-28 15:05:50,364 - log -INFO - entered employee id :Puli
+2023-01-28 15:05:50,479 - log -INFO - entered employee id :Raju
+2023-01-28 15:05:50,517 - log -INFO - entered emplyee id:0025
+2023-01-28 15:05:52,436 - log -INFO - saved first name :Chakali
+2023-01-28 15:05:52,477 - log -INFO - saved middle name :Puli
+2023-01-28 15:05:52,522 - log -INFO - saved last name :Raju
+2023-01-28 15:05:52,562 - log -INFO - saved employee id :0025
+2023-01-28 15:05:52,568 - log -INFO - Entered first name is equals to saved first name - PASS
+2023-01-28 15:05:52,572 - log -INFO - Entered middle name is equals to saved middle name - PASS
+2023-01-28 15:05:52,582 - log -INFO - Entered last name is equals to saved last name - PASS
+2023-01-28 15:05:52,591 - log -INFO - Entered employee id is equals to saved employee id - PASS
+2023-01-28 15:05:52,648 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 16:54:19,889 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 16:54:19,927 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 16:54:19,931 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 16:54:28,541 - log -INFO - OrangeHRM
+2023-01-29 16:54:28,552 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee
+2023-01-29 16:54:28,687 - log -INFO - entered employee id :Chakali
+2023-01-29 16:54:28,817 - log -INFO - entered employee id :Puli
+2023-01-29 16:54:28,937 - log -INFO - entered employee id :Raju
+2023-01-29 16:54:28,969 - log -INFO - entered emplyee id:0026
+2023-01-29 16:54:31,407 - log -INFO - saved first name :Chakali
+2023-01-29 16:54:31,445 - log -INFO - saved middle name :Puli
+2023-01-29 16:54:31,478 - log -INFO - saved last name :Raju
+2023-01-29 16:54:31,516 - log -INFO - saved employee id :0026
+2023-01-29 16:54:31,519 - log -INFO - Entered first name is equals to saved first name - PASS
+2023-01-29 16:54:31,524 - log -INFO - Entered middle name is equals to saved middle name - PASS
+2023-01-29 16:54:31,535 - log -INFO - Entered last name is equals to saved last name - PASS
+2023-01-29 16:54:31,547 - log -INFO - Entered employee id is equals to saved employee id - PASS
+2023-01-29 16:54:31,604 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 18:29:15,391 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 18:30:43,243 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:30:43,268 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:30:43,271 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 18:30:45,281 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 18:32:50,737 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:32:50,762 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:32:50,766 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 18:32:52,975 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 18:47:26,311 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:47:26,336 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:47:26,341 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 18:47:28,392 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 18:48:24,383 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:48:24,407 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 18:48:24,412 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 18:48:26,554 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:39:52,482 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:39:52,508 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:39:52,513 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:39:54,596 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:39:59,095 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:42:01,231 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:42:01,267 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:42:01,271 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:42:03,866 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:42:04,100 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:42:32,697 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:42:32,738 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:42:32,744 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:42:35,433 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:42:36,465 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:44:18,225 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:44:18,274 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:44:18,279 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:44:20,797 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:44:21,059 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:48:52,806 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:48:52,842 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:48:52,846 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:48:55,645 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:48:55,685 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:49:30,618 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:49:30,674 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:49:30,678 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:49:33,715 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:49:34,226 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:49:58,162 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:49:58,216 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:49:58,219 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:50:00,589 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:50:01,484 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:51:38,137 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:51:38,173 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:51:38,178 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:51:41,584 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:51:41,904 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:52:02,480 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:52:02,521 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 19:52:02,526 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 19:52:06,229 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 19:52:06,431 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 21:27:36,876 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 21:27:37,035 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-29 21:27:37,041 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-29 21:27:42,034 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-29 21:27:42,256 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:35:47,310 - log -INFO - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+2023-01-30 21:35:47,365 - log -INFO - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+2023-01-30 21:35:47,371 - log -INFO - Actual and expected login panel text are same - PASS
+2023-01-30 21:35:55,082 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:35:56,673 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:40:15,582 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:42:41,483 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:43:22,934 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:43:58,408 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:45:02,972 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 21:45:50,862 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 22:54:07,226 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-30 22:55:13,079 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-31 22:02:01,732 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-31 23:16:22,139 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-31 23:22:41,450 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-31 23:39:01,362 - log -INFO - successfully Navigate to HomePage - PASS
+2023-01-31 23:42:25,883 - log -INFO - successfully Navigate to HomePage - PASS
+2023-02-03 17:30:22,891 - log -INFO - successfully Navigate to HomePage - PASS
+2023-02-03 17:39:10,463 - log -INFO - successfully Navigate to HomePage - PASS
+2023-02-03 17:42:08,068 - log -INFO - successfully Navigate to HomePage - PASS

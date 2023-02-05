@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <suite name="OrangeHRMApplication">
+
+    <test thread-count="5" name="com.GRID">
+
+      <classes>
+
+       <class name="com.GRID.OHRMApplicationLoginTest"/>
+
+      </classes> 
+      
+    </test> <!-- Test -->
+
+  </suite> <!-- Suite -->
+ 
+ 
+
+ 

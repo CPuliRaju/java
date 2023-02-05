@@ -1,0 +1,8 @@
+
+<suite name="OrangeHRMApplication">
+  <test thread-count="5" name="com.OrangeApplicationTestCases">
+    <classes>
+      <class name="com.OrangeApplicationTestCases.LoginFuctionalityTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

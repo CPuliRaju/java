@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T17:42:03 IST" name="Default suite" finished-at="2023-02-03T17:42:16 IST" duration-ms="13765">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T17:42:03 IST" name="Default test" finished-at="2023-02-03T17:42:16 IST" duration-ms="13765">
+      <class name="com.OranageHRMTestCases.OHRM_AddEmployee">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OranageHRMTestCases.OHRM_AddEmployee@702b8b12]" started-at="2023-02-03T17:42:03 IST" name="applicationLaunch" finished-at="2023-02-03T17:42:05 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="AddEmployee()[pri:1, instance:com.OranageHRMTestCases.OHRM_AddEmployee@702b8b12]" started-at="2023-02-03T17:42:05 IST" name="AddEmployee" finished-at="2023-02-03T17:42:05 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+        <test-method signature="LoginfuctionaltyTest()[pri:2, instance:com.OranageHRMTestCases.OHRM_AddEmployee@702b8b12]" started-at="2023-02-03T17:42:05 IST" name="LoginfuctionaltyTest" finished-at="2023-02-03T17:42:13 IST" duration-ms="8504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginfuctionaltyTest -->
+        <test-method signature="LogoutTest()[pri:3, instance:com.OranageHRMTestCases.OHRM_AddEmployee@702b8b12]" started-at="2023-02-03T17:42:13 IST" name="LogoutTest" finished-at="2023-02-03T17:42:16 IST" duration-ms="2721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="Applicationclose()[pri:0, instance:com.OranageHRMTestCases.OHRM_AddEmployee@702b8b12]" started-at="2023-02-03T17:42:16 IST" name="Applicationclose" finished-at="2023-02-03T17:42:16 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applicationclose -->
+      </class> <!-- com.OranageHRMTestCases.OHRM_AddEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,171 @@
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - OrangeHRM
+[main] INFO log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee
+[main] INFO log - entered employee id :Chakali
+[main] INFO log - entered employee id :Puli
+[main] INFO log - entered employee id :Raju
+[main] INFO log - entered emplyee id:0025
+[main] INFO log - saved first name :Chakali
+[main] INFO log - saved middle name :Puli
+[main] INFO log - saved last name :Raju
+[main] INFO log - saved employee id :0025
+[main] INFO log - Entered first name is equals to saved first name - PASS
+[main] INFO log - Entered middle name is equals to saved middle name - PASS
+[main] INFO log - Entered last name is equals to saved last name - PASS
+[main] INFO log - Entered employee id is equals to saved employee id - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - OrangeHRM
+[main] INFO log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee
+[main] INFO log - entered employee id :Chakali
+[main] INFO log - entered employee id :Puli
+[main] INFO log - entered employee id :Raju
+[main] INFO log - entered emplyee id:0026
+[main] INFO log - saved first name :Chakali
+[main] INFO log - saved middle name :Puli
+[main] INFO log - saved last name :Raju
+[main] INFO log - saved employee id :0026
+[main] INFO log - Entered first name is equals to saved first name - PASS
+[main] INFO log - Entered middle name is equals to saved middle name - PASS
+[main] INFO log - Entered last name is equals to saved last name - PASS
+[main] INFO log - Entered employee id is equals to saved employee id - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[main] INFO log - Actual and expected login panel text are same - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - the Expected text of login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - The Actual text of  login of orangeHRM Login page is :-LOGIN Panel
+[TestNG-tests-1] INFO log - Actual and expected login panel text are same - PASS
+[TestNG-tests-2] INFO log - successfully Navigate to HomePage - PASS
+[TestNG-tests-1] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS
+[main] INFO log - successfully Navigate to HomePage - PASS

@@ -1,0 +1,228 @@
+package com.OranageHRMTestCases;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.OrangeHRM.BaseTest;
+import com.Utility.Log;
+
+public class OHRM_AddEmployee extends BaseTest{
+	
+	@Test(priority=1)
+	public void AddEmployee() {	
+		
+		String expected_TitleofOrangeHRMApplicationLoginPage="OrangeHRM";
+		System.out.println("The expected Title of the OrangeHRM Application LogiPage is:-"+expected_TitleofOrangeHRMApplicationLoginPage);
+		
+		String actual_TitleofOrangeHRMApplicationLoginPage = "driver.getTitle";
+		System.out.println("The actual Title of the OrangeHRM Application LogiPage is:-"+actual_TitleofOrangeHRMApplicationLoginPage);
+		
+		if(actual_TitleofOrangeHRMApplicationLoginPage.equals(expected_TitleofOrangeHRMApplicationLoginPage))
+		{
+		System.out.println("Its a Login page of OrangeHRM Application - PASS");
+		}
+		else
+		{
+		System.out.println("Its Not Login page of OrangeHRM Application - FAIL");
+		}
+		String expected_CurrentUrlAddressOfOrangeHRMApplicationLoginPage ="Orange HRM-4.2.0.1";
+		System.out.println("The expected URl Address of OrangeHRM Applicatoin LoginPage is:-"+expected_CurrentUrlAddressOfOrangeHRMApplicationLoginPage);
+		
+		String actual_CurrentUrlAddressOfOrangeHRMApplicationLoginPage = driver.getCurrentUrl();
+		System.out.println("The actual URl Address of OrangeHRM Applicatoin LoginPage is:-"+actual_CurrentUrlAddressOfOrangeHRMApplicationLoginPage);
+		
+		if(actual_CurrentUrlAddressOfOrangeHRMApplicationLoginPage.contains(expected_CurrentUrlAddressOfOrangeHRMApplicationLoginPage))
+		{
+		System.out.println("Its a LoginPage of OrangeHRM Application Url Address Matched PASS");
+		}
+		else
+		{
+		System.out.println("Its a LoginPage of OrangeHRM Application Url Address Not Matched FAIL");
+		}
+	  }
+	
+	@Test(priority=2)
+	public void LoginfuctionaltyTest() throws IOException, InterruptedException {
+		
+		FileInputStream file = new FileInputStream("./src/com/ApplicationTestDataFiles/OrangeHRM_LoginTestData.xlsx");
+		XSSFWorkbook workbook=new XSSFWorkbook(file);
+		XSSFSheet sheet =workbook.getSheet("Sheet1");
+		
+		Row row=sheet.getRow(1);
+		Cell rowOfCell=row.getCell(0);
+		String userNameData=rowOfCell.getStringCellValue();
+		rowOfCell=row.getCell(1);
+		String passwordData=rowOfCell.getStringCellValue();
+		
+		//<input name="txtUsername" id="txtUsername" type="text">
+	    By UserNameLocator=By.id("txtUsername");
+	    WebElement UserName=driver.findElement(UserNameLocator);
+	    UserName.sendKeys(userNameData);
+				
+	    //<input name="txtPassword" id="txtPassword" autocomplete="off" type="password">
+	    By PasswordLocator=By.id("txtPassword");   
+	    WebElement Password=driver.findElement(PasswordLocator);
+	    Password.sendKeys(passwordData);
+				
+	    //<input type="submit" name="Submit" class="button" id="btnLogin" value="LOGIN">
+	    By LoginLocator=By.id("btnLogin");
+	    WebElement Login=driver.findElement(LoginLocator);
+	    Login.click();
+	    
+	    //<a href="#" id="welcome" class="panelTrigger">Welcome Admin</a>
+	    By WelcomeAdminLocator=By.id("welcome");
+		WebElement WelcomeAdmin=driver.findElement(WelcomeAdminLocator);
+		
+		String Expected_OrangeHRMHomePageText="Admin";
+		
+		String Actual_OrangeHRMHomePageText= WelcomeAdmin.getText();
+		
+		if(Actual_OrangeHRMHomePageText.contains(Expected_OrangeHRMHomePageText)) {
+			//System.out.println("successfully Navigate to HomePage - PASS");
+			Log.info("successfully Navigate to HomePage - PASS");
+			Cell newrowOfcell=row.createCell(2);
+			newrowOfcell.setCellValue("Successfullly NaviGate to HomePage - PASS ");
+		}
+		else {
+			//System.out.println("Failed Navigate to HomePage - FAIL");
+			Log.info("Failed Navigate to HomePage - FAIL");
+			Cell newrowOfcell=row.createCell(2);
+			newrowOfcell.setCellValue("Failed Navigate to HomePage - FAIL");
+		}
+		
+		By PimLocator=By.id("menu_pim_viewPimModule");
+		WebElement Pim=driver.findElement(PimLocator);
+		
+		//Thread.sleep(10000);
+		
+		Actions Action=new Actions(driver);
+		Action.moveToElement(Pim).build().perform();
+		
+		//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee" id="menu_pim_addEmployee">Add Employee</a>
+		By addEmployeeLocator=By.linkText("Add Employee");
+		WebElement AddEmployee=driver.findElement(addEmployeeLocator);
+		
+		AddEmployee.click();
+		
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getCurrentUrl());
+		
+		//<input class="formInputText" maxlength="30" type="text" name="firstName" id="firstName">
+		By firstNameLocator=By.id("firstName");
+		WebElement firstName=driver.findElement(firstNameLocator);
+		firstName.sendKeys("Chakali");
+		
+		Actions act=new Actions(driver);
+		act.sendKeys(Keys.TAB).build().perform();
+		
+		//Automating middle name
+		act.sendKeys("Puli").build().perform();
+		
+		//Automating LastName
+		act.sendKeys(Keys.TAB).build().perform();
+		act.sendKeys("Raju").build().perform();
+		
+		//EmployeeID
+		act.sendKeys(Keys.TAB).build().perform();
+		
+		//Automating Photograph
+		act.sendKeys(Keys.TAB).build().perform();
+		act.sendKeys(Keys.ENTER).build().perform();
+		
+		Thread.sleep(5000);
+		
+	    Runtime.getRuntime().exec("C:\\Users\\PULI RAJU\\eclipse-workspace\\OrangeHRM_DDT1\\src\\com\\OranageHRMTestCases\\AutoITScript.exe");
+	   
+	    Thread.sleep(5000);
+	    
+		//Save button
+		//<select class="formInputText valid" name="status" id="status">
+		//<input type="button" class="" id="btnSave" value="Save">
+		By SaveLocator=By.id("btnSave");
+		WebElement saveButton = driver.findElement(SaveLocator);		
+		saveButton.click();
+		
+		//Validating the Image Upload
+		//<input class="duplexBox" type="file" name="photofile" id="photofile">
+		By EmployeePhtographLocator=By.id("photofile");
+		WebElement EmployeePhtograph=driver.findElement(EmployeePhtographLocator);
+		
+		boolean flag=EmployeePhtograph.isDisplayed();
+		if(flag)
+		{
+			System.out.println("Employee Photograph Upload is PASS");
+		}
+		else
+		{
+			System.out.println("Emlpoyee Photograph Upload is FAIL");
+		}
+		Assert.assertTrue(flag, "Emlpoyee Photograph Upload is FAIL");
+		
+		System.out.println("  ");
+        
+		//personal Detailse
+		//<input value="ijhijhiu" type="text" name="personal[txtEmpFirstName]" 
+		//class="block default editable" maxlength="30" title="First Name" id="personal_txtEmpFirstName" disabled="disabled"> 
+		By FirstName_persnonalDetailsL=By.id("personal_txtEmpFirstName");
+		WebElement FirstNamepersnaldetails=driver.findElement(FirstName_persnonalDetailsL);
+		String SavedFirstName=FirstNamepersnaldetails.getAttribute("value");
+		System.out.println("saved first name :"+SavedFirstName);
+		
+		//<input value="" type="text" name="personal[txtEmpMiddleName]" 
+		//class="block default editable" maxlength="30" title="Middle Name" id="personal_txtEmpMiddleName" disabled="disabled">
+		By MiddleName_persnonalDetailsL=By.id("personal_txtEmpMiddleName");
+		WebElement MiddleNamepersnaldetails=driver.findElement(MiddleName_persnonalDetailsL);
+		String SavedMiddleName=MiddleNamepersnaldetails.getAttribute("value");
+		System.out.println("saved middle name :"+SavedMiddleName);
+		
+		//<input value="bhbb" type="text" name="personal[txtEmpLastName]" 
+		//class="block default editable" maxlength="30" title="Last Name" id="personal_txtEmpLastName" disabled="disabled">
+		By LastName_persnonalDetailsL=By.id("personal_txtEmpLastName");
+		WebElement LastNamepersnaldetails=driver.findElement(LastName_persnonalDetailsL);
+		String SavedLastName=LastNamepersnaldetails.getAttribute("value");
+		System.out.println("saved last name :"+SavedLastName);
+		
+		//<input value="0002" type="text" name="personal[txtEmployeeId]" 
+		//maxlength="10" class="editable" id="personal_txtEmployeeId" disabled="disabled">
+		By Name_persnonalEmpolyeeIdL=By.id("personal_txtEmployeeId");
+		WebElement NamepersnalId=driver.findElement(Name_persnonalEmpolyeeIdL);
+		String SavedId=NamepersnalId.getAttribute("value");
+		System.out.println("saved employee id :"+SavedId);
+		
+		FileOutputStream loginTestResultFile=new FileOutputStream("./src/com/ApplicationTestResultFile/OrangeHRM_LoginTestResultData.xlsx");
+	    workbook.write(loginTestResultFile);
+	}
+	
+	@Test(priority=3)
+	public void LogoutTest() throws InterruptedException {
+		
+		//<a href="#" id="welcome" class="panelTrigger">Welcome Admin</a>
+	    By welcomeL=By.id("welcome");
+		WebElement welcome=driver.findElement(welcomeL);
+		welcome.click();
+				
+		Thread.sleep(2000);
+		//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/auth/logout">Logout</a>
+		By LogoutL=By.linkText("Logout");
+		WebElement logout=driver.findElement(LogoutL);
+		logout.click();		
+												
+			}
+		
+	}
+		
+
+
+

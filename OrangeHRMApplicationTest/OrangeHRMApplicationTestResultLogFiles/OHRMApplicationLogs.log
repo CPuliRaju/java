@@ -1,0 +1,4 @@
+[main] INFO log - OrangeHRM Application Logo found on OrangeHRM Application LoginPage - PASS
+[main] INFO log - The expected Login page Text is :-LOGIN Panel
+[main] INFO log - The actual Login Page Text is :-LOGIN Panel
+[main] INFO log - Successfully navigated to OrangeHRM Appliaction Login Page - PASS
