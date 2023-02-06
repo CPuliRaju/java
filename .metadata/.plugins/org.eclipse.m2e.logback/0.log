@@ -11903,3 +11903,6 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestRunner referenc
 2023-02-05 23:48:25,819 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PULI RAJU\eclipse-workspace\eclipse-workspace\OrangeHRMApplication\src\main\resources
 2023-02-05 23:48:25,823 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-02-05 23:48:25,825 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PULI RAJU\eclipse-workspace\eclipse-workspace\OrangeHRMApplication\src\test\resources
+2023-02-06 14:29:54,673 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-06 17:08:29,753 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 17:08:29,830 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PULI RAJU\eclipse-workspace\eclipse-workspace\OrangeHRMApplicationTest\src\main\resources
