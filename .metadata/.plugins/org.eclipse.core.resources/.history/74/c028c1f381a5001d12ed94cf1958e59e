@@ -1,0 +1,13 @@
+
+
+  <suite name="OHRMApplication">
+  <test name="chrome">
+    <classes>
+      <class name="com.GRID.OHRMApplicationLoginTest"/>
+    </classes>
+  </test> 
+</suite> 
+ 
+ 
+
+ 

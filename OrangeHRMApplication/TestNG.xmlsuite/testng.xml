@@ -4,5 +4,5 @@
     <classes>
       <class name="com.OrangeApplicationTestCases.LoginFuctionalityTest"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 

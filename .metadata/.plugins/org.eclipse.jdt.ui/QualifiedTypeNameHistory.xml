@@ -44,7 +44,6 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
     <fullyQualifiedTypeName name="com.OrangeHRMApplicationBaseTest.BaseTest"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
     <fullyQualifiedTypeName name="com.OrangeHRMApplicationPageTestCases.OrangeHRMLoginPageTest"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
     <fullyQualifiedTypeName name="com.OrangeHRMApplicationPages.OrangeHRMLoginPage"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
     <fullyQualifiedTypeName name="java.sql.Driver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.remote.RemoteWebDriver"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 </qualifiedTypeNameHistroy>
