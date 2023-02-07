@@ -23,7 +23,6 @@
     <fullyQualifiedTypeName name="com.OrangeHRMApplication.BaseTest"/>
     <fullyQualifiedTypeName name="com.Utility.ExcelCommonMethods"/>
     <fullyQualifiedTypeName name="com.Utility.OHRMProperty"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="com.Utility.OHRMScreenshots"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.remote.server.handler.FindElement"/>
     <fullyQualifiedTypeName name="java.lang.Runtime"/>
@@ -53,11 +52,12 @@
     <fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
     <fullyQualifiedTypeName name="com.Utility.Log"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
     <fullyQualifiedTypeName name="java.sql.Driver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.remote.RemoteWebDriver"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 </qualifiedTypeNameHistroy>
