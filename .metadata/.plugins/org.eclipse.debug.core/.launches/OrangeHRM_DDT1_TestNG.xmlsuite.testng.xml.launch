@@ -3,7 +3,7 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="OrangeHRM_DDT1"/>
     <listAttribute key="org.testng.eclipse.SUITE_TEST_LIST">
-        <listEntry value="C:\Users\PULI RAJU\eclipse-workspace\OrangeHRM_DDT1\TestNG.xmlsuite\testng.xml"/>
+        <listEntry value="C:\Users\PULI RAJU\eclipse-workspace\eclipse-workspace\OrangeHRM_DDT1\TestNG.xmlsuite\testng.xml"/>
     </listAttribute>
     <intAttribute key="org.testng.eclipse.TYPE" value="3"/>
 </launchConfiguration>

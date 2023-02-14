@@ -40,7 +40,7 @@ public class OHRMApplicationLoginTest {
 			}
 			
 			//Remote Webdriver-is use too set client convention between the HUB antee Windows
-			RemoteWebDriver driver=new RemoteWebDriver(new URL("http://192.168.29.27:4444/wd/hub"),cap);
+			RemoteWebDriver driver=new RemoteWebDriver(new URL("http://192.168.43.27:4444"),cap);
 			
 			String applicationurladdress=("http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login");
 		driver.get(applicationurladdress);

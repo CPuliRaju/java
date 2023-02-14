@@ -1,0 +1,96 @@
+2023-02-09 18:26:13,023 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-09 18:26:13,033 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-09 18:26:13,038 - log -INFO - driver.getTitle
+2023-02-09 18:26:13,043 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-09 18:26:13,057 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-09 18:26:13,066 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-10 11:03:06,671 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-10 11:03:06,694 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-10 11:03:06,698 - log -INFO - driver.getTitle
+2023-02-10 11:03:06,707 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-10 11:03:06,737 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-10 11:03:06,751 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-10 16:20:37,220 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-10 16:20:37,234 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-10 16:20:37,240 - log -INFO - driver.getTitle
+2023-02-10 16:20:37,250 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-10 16:20:37,273 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-10 16:20:37,283 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:34:08,104 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:34:08,133 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:34:08,142 - log -INFO - driver.getTitle
+2023-02-12 16:34:08,146 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:34:08,163 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:34:08,168 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:41:51,929 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:41:51,945 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:41:51,945 - log -INFO - driver.getTitle
+2023-02-12 16:41:51,945 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:41:51,972 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:41:51,977 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:47:01,229 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:47:01,238 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:47:01,241 - log -INFO - driver.getTitle
+2023-02-12 16:47:01,246 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:47:01,257 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:47:01,262 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:47:24,741 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:47:24,749 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:47:24,754 - log -INFO - driver.getTitle
+2023-02-12 16:47:24,758 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:47:24,771 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:47:24,777 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:48:43,465 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:48:43,477 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:48:43,481 - log -INFO - driver.getTitle
+2023-02-12 16:48:43,486 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:48:43,496 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:48:43,502 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:55:07,145 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:55:07,156 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:55:07,162 - log -INFO - driver.getTitle
+2023-02-12 16:55:07,167 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:55:07,178 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:55:07,183 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:55:13,774 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:55:13,780 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:55:13,788 - log -INFO - driver.getTitle
+2023-02-12 16:55:13,793 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:55:13,821 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:55:13,821 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:58:00,872 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:58:00,889 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:58:00,896 - log -INFO - driver.getTitle
+2023-02-12 16:58:00,901 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:58:00,921 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:58:00,928 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:58:07,073 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 16:58:07,083 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 16:58:07,087 - log -INFO - driver.getTitle
+2023-02-12 16:58:07,092 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 16:58:07,109 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 16:58:07,109 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:10:48,827 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 17:10:48,837 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 17:10:48,841 - log -INFO - driver.getTitle
+2023-02-12 17:10:48,846 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 17:10:48,858 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:10:48,865 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:10:58,458 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 17:10:58,466 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 17:10:58,476 - log -INFO - driver.getTitle
+2023-02-12 17:10:58,487 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 17:10:58,519 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:10:58,519 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:11:45,365 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 17:11:45,377 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 17:11:45,383 - log -INFO - driver.getTitle
+2023-02-12 17:11:45,389 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 17:11:45,401 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:11:45,406 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:15:13,718 - log -INFO - The expected Title of the OrangeHRM Application LogiPage is:-OrangeHRM
+2023-02-12 17:15:13,728 - log -INFO - The actual Title of the OrangeHRM Application LogiPage is:-driver.getTitle
+2023-02-12 17:15:13,733 - log -INFO - driver.getTitle
+2023-02-12 17:15:13,740 - log -INFO - The expected URl Address of OrangeHRM Applicatoin LoginPage is:-Orange HRM-4.2.0.1
+2023-02-12 17:15:13,753 - log -INFO - The actual URl Address of OrangeHRM Applicatoin LoginPage is:-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-02-12 17:15:13,757 - log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login

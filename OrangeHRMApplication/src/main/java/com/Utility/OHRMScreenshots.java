@@ -16,7 +16,7 @@ public class OHRMScreenshots {
 		
 		TakesScreenshot takescreenshot=(TakesScreenshot)driver; 
 		File errorScreenShot=takescreenshot.getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(errorScreenShot,new File("./OrangeHRMApplication/OHRMerrorScreenShots/"+imageName+"png"));
+		FileUtils.copyFile(errorScreenShot,new File("./OHRMApplicationErrorScreenShots/"+imageName+"png"));
 			
 	}
 }

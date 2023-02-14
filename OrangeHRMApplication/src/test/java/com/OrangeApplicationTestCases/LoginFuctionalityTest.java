@@ -16,8 +16,8 @@ import com.Utility.OHRMScreenshots;
 public class LoginFuctionalityTest extends BaseTest{
 
 	Properties property;
-	String excelfileinputpath="/src/main/java/com/OrangeHRMApplicationTestDataFile/OHRMAddEmployeeData.xlsx";
-	String excelfileoutputpath="/src/main/java/com/OrangeHRMApplicationTestResultDataFile/OHRMAddEmployeeTestResultData.xlsx";
+	String excelfileinputpath="./src/main/java/com/OrangeHRMApplicationTestDataFile/OHRMAddEmployeeData.xlsx";
+	String excelfileoutputpath="./src/main/java/com/OrangeHRMApplicationTestResultDataFile/OHRMAddEmployeeResultData.xlsx";
 	String SheetName="sheet3";
 	ExcelCommonMethods excelfile;
 
@@ -66,7 +66,9 @@ public class LoginFuctionalityTest extends BaseTest{
 				passwordElement.sendKeys(password);
 
 				By loginpageloginbuttonLocator=By.className(property.getProperty("loginButtonProperty"));
-				driver.findElement(loginpageloginbuttonLocator).click();
+				WebElement loginpageloginbutton=driver.findElement(loginpageloginbuttonLocator);
+				loginpageloginbutton.click();
+				
 				if (isLoginPage())
 				{
 					//LoginPage

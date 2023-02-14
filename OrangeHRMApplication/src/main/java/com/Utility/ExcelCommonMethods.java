@@ -34,6 +34,7 @@ public class ExcelCommonMethods {
 	}
 	
 	public void SetCellValue(int rowIndex,int cellIndex,String data) throws IOException {
+		
 		XSSFSheet sheet= workbook.getSheet(SheetName);
 		Row row=sheet.getRow(rowIndex);
 		Cell rowOfcell=row.createCell(cellIndex);

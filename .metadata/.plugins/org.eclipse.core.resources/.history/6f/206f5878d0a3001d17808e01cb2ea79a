@@ -1,8 +1,0 @@
-
-<suite name="OrangeHRMApplication">
-  <test name="com.OrangeApplicationTestCases">
-    <classes>
-      <class name="com.OrangeApplicationTestCases.LoginFuctionalityTest"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->

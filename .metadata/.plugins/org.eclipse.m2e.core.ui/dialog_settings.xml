@@ -26,13 +26,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="OHRM.OrangeHRMA.Cucumber"/>
+			<item value="OrangeHRM.Cucumber.Cucumber"/>
+			<item value="OrangeHRM.Cucumber.OHRMApplication_Cucumber"/>
+			<item value="OrangeHRM.Cucumber.OHRM.Cucumber1"/>
 		</list>
 		<list key="groupId">
-			<item value="OHRM"/>
+			<item value="OrangeHRM.Cucumber"/>
 		</list>
 		<list key="artifactId">
-			<item value="OrangeHRMA.Cucumber"/>
+			<item value="Cucumber"/>
+			<item value="OHRMApplication_Cucumber"/>
+			<item value="OHRM.Cucumber1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
